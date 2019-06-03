@@ -114,7 +114,6 @@ partial matching is allowed.
 * For Subtask 2, conditions applied to all relatives should  not be included. For
 example, in the sentences of "There were no reports of mental retardation. ", 
 the observation of "mental retardation" should not appear in any family members. 
-* Negation information is not included in the evaluation. The participants should output all the observations without removing negated ones.
 
 
 # Evaluation
