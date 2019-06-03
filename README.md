@@ -61,7 +61,7 @@ The output file should be in TSV format which the columns are:
 In cases where there are more than one observation for one family member category,
  the systems should provide those observations in separate rows.
  
-__[Notice] Different from the task in 2018, in the challenge of this year, the participants will need to detect negation for observations. Specifically, "Negated" and "Non_Negated" should be given after each observation. Detalied please see the example below.__
+__[Notice!!] Different from the task in 2018, in the challenge of this year, the participants will need to detect negation for observations. Specifically, "Negated" and "Non_Negated" should be given after each observation. Detalied please see the example below.__
 
 ### Output Format
 
