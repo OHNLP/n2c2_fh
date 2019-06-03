@@ -60,14 +60,16 @@ The output file should be in TSV format which the columns are:
 
 In cases where there are more than one observation for one family member category,
  the systems should provide those observations in separate rows.
+ 
+__[Notice] Different from the task in 2018, in the challenge of this year, the participants will need to detect negation for observations. Specifically, "Negated" and "Non_Negated" should be given after each observation. Detalied please see the example below.__
 
 ### Output Format
 
 Within a single file. Fields are delimited by tabs.
 ```
 doc_id  family_member    side_of_family    LivingStatus    living_status_score
-doc_id  family_member    side_of_family    Observation    text_of_observation1
-doc_id  family_member    side_of_family    Observation    text_of_observation2
+doc_id  family_member    side_of_family    Observation    text_of_observation1 Negated
+doc_id  family_member    side_of_family    Observation    text_of_observation2 Non_Negated
 ```
 
 Examples:
@@ -75,8 +77,8 @@ Examples:
 doc_1	Brother	NA	LivingStatus	4
 doc_1	Father	NA	LivingStatus	4
 doc_1	Grandfather	Paternal	LivingStatus	0
-doc_1	Cousin	Paternal	Observation	 phaeochromocytoma
-doc_1	Cousin	Paternal	Observation	choreic dysphonia
+doc_1	Cousin	Paternal	Observation	 phaeochromocytoma Non_Negated
+doc_1	Cousin	Paternal	Observation	choreic dysphonia Non_Negated
 ```
 
 
