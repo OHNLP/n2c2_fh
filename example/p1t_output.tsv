@@ -1,0 +1,35 @@
+doc_1	FamilyMember	Sister	NA
+doc_1	FamilyMember	Mother	NA
+doc_1	FamilyMember	Father	NA
+doc_1	FamilyMember	Daughter	NA
+doc_1	FamilyMember	Cousin	Paternal
+doc_1	FamilyMember	Brother	NA
+doc_1	FamilyMember	Son	NA
+doc_1	FamilyMember	Uncle	Maternal
+doc_1	FamilyMember	Grandfather	Paternal
+doc_1	Observation	duplication 2q syndrome
+doc_1	Observation	arboviral infections
+doc_1	Observation	bile duct adenocarcinoma
+doc_1	Observation	neoplasm maligprostate
+doc_1	Observation	choreic dysphonia
+doc_1	Observation	conduction disorders
+doc_1	Observation	men ii
+doc_1	Observation	lump of skin
+doc_1	Observation	disorders of meninges
+doc_1	Observation	 phaeochromocytoma
+doc_1	Observation	grade 2 ileum obstruction
+doc_1	Observation	ear melanoma
+doc_1	Observation	hurler
+doc_1	Observation	ovarian failure
+doc_1	Observation	herpes
+doc_10	FamilyMember	Sister	NA
+doc_10	FamilyMember	Mother	NA
+doc_10	FamilyMember	Father	NA
+doc_10	FamilyMember	Brother	NA
+doc_10	FamilyMember	Son	NA
+doc_10	Observation	atopic
+doc_10	Observation	cancer endometrium
+doc_10	Observation	metastasis to urethra
+doc_10	Observation	hypermnesia
+doc_10	Observation	anteroclusion
+doc_10	Observation	plasmodiosis

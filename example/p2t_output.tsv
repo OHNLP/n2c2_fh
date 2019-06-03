@@ -1,0 +1,20 @@
+doc_1	Son	NA	LivingStatus	4
+doc_1	Daughter	NA	LivingStatus	4
+doc_1	Brother	NA	LivingStatus	4
+doc_1	Father	NA	LivingStatus	4
+doc_1	Grandfather	Paternal	LivingStatus	0
+doc_1	Uncle	Maternal	Observation	ovarian failure	Non_Negated
+doc_1	Cousin	Paternal	Observation	 phaeochromocytoma	Non_Negated
+doc_1	Cousin	Paternal	Observation	choreic dysphonia	Non_Negated
+doc_1	Mother	NA	Observation	disorders of meninges	Non_Negated
+doc_1	Mother	NA	Observation	bile duct adenocarcinoma	Non_Negated
+doc_1	Mother	NA	Observation	neoplasm maligprostate	Non_Negated
+doc_1	Mother	NA	Observation	lump of skin	Non_Negated
+doc_1	Father	NA	Observation	men ii	Negated
+doc_1	Grandfather	Paternal	Observation	ear melanoma
+doc_10	Son	NA	LivingStatus	4
+doc_10	Brother	NA	LivingStatus	4
+doc_10	Sister	NA	LivingStatus	4
+doc_10	Mother	NA	LivingStatus	4
+doc_10	Father	NA	LivingStatus	4
+doc_10	Sister	NA	Observation	hypermnesia	Non_Negated
