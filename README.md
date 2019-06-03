@@ -179,7 +179,7 @@ support student presenters for their travel expenses.
 
 # Contact
 
-Please find more information on our [workshop site](https://sites.google.com/view/ohnlp2018/home).
+Please find more information on our challenge page: https://n2c2.dbmi.hms.harvard.edu/track2
 
 # Acknowledgment
 Please kindly cite our task overview paper as:
