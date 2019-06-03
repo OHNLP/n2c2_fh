@@ -154,29 +154,6 @@ Recall: 0.9142857142857143
 F1: 0.9411764705882354
 ```
 
-# Submission
-
-Each team may submit *up to 3 runs* for each subtask (i.e. subtask 1 and 2).
- We will use the highest F1 score for each subtask as your final
- performance for ranking.
-
-You may submit results of either of the subtasks, or both. The two tasks will be ranked separately. 
-
-Once the official evaluation is done, you may also submit a 4-page, double-column system description
- to be included in the official ranking.
- The template and the instructions can be find here: http://www.biocreative.org/media/store/files/2017/2017_Biocreative_template_format.doc. 
-
-Due to the tight timeline, we strongly encourage you to work on your system description
- while developing your system.
-
-# Awards
-
-*BioCreative* will provide a total of $500 for the
-shared task winners ($250 for each subtask). Besides, a limited number
-of *student travel awards* ($500) are also available to
-support student presenters for their travel expenses.
-
-
 # Contact
 
 Please find more information on our challenge page: https://n2c2.dbmi.hms.harvard.edu/track2
